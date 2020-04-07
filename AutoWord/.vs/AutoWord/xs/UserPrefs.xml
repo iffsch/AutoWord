@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{7DEC5EB1-68B7-4B6B-81E2-C03037B773D9}|Default">
-  <MonoDevelop.Ide.ItemProperties.AutoWord FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AutoWord/Program.cs">
+    <Files>
+      <File FileName="AutoWord/Program.cs" Line="35" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AutoWord" expanded="True">
+            <Node name="AutoWord" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AutoWord PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

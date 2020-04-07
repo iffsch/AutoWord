@@ -1,0 +1,15 @@
+/Users/julian/Documents/Workspace/GitHub/AutoWord/AutoWord/AutoWord/obj/Debug/netcoreapp3.1/AutoWord.csprojAssemblyReference.cache
+/Users/julian/Documents/Workspace/GitHub/AutoWord/AutoWord/AutoWord/obj/Debug/netcoreapp3.1/AutoWord.AssemblyInfoInputs.cache
+/Users/julian/Documents/Workspace/GitHub/AutoWord/AutoWord/AutoWord/obj/Debug/netcoreapp3.1/AutoWord.AssemblyInfo.cs
+/Users/julian/Documents/Workspace/GitHub/AutoWord/AutoWord/AutoWord/bin/Debug/netcoreapp3.1/AutoWord.deps.json
+/Users/julian/Documents/Workspace/GitHub/AutoWord/AutoWord/AutoWord/bin/Debug/netcoreapp3.1/AutoWord.runtimeconfig.json
+/Users/julian/Documents/Workspace/GitHub/AutoWord/AutoWord/AutoWord/bin/Debug/netcoreapp3.1/AutoWord.runtimeconfig.dev.json
+/Users/julian/Documents/Workspace/GitHub/AutoWord/AutoWord/AutoWord/bin/Debug/netcoreapp3.1/AutoWord.dll
+/Users/julian/Documents/Workspace/GitHub/AutoWord/AutoWord/AutoWord/bin/Debug/netcoreapp3.1/AutoWord.pdb
+/Users/julian/Documents/Workspace/GitHub/AutoWord/AutoWord/AutoWord/bin/Debug/netcoreapp3.1/Microsoft.Office.Interop.Word.dll
+/Users/julian/Documents/Workspace/GitHub/AutoWord/AutoWord/AutoWord/bin/Debug/netcoreapp3.1/System.IO.Packaging.dll
+/Users/julian/Documents/Workspace/GitHub/AutoWord/AutoWord/AutoWord/obj/Debug/netcoreapp3.1/AutoWord.csproj.CopyComplete
+/Users/julian/Documents/Workspace/GitHub/AutoWord/AutoWord/AutoWord/obj/Debug/netcoreapp3.1/AutoWord.dll
+/Users/julian/Documents/Workspace/GitHub/AutoWord/AutoWord/AutoWord/obj/Debug/netcoreapp3.1/AutoWord.pdb
+/Users/julian/Documents/Workspace/GitHub/AutoWord/AutoWord/AutoWord/obj/Debug/netcoreapp3.1/AutoWord.genruntimeconfig.cache
+/Users/julian/Documents/Workspace/GitHub/AutoWord/AutoWord/AutoWord/bin/Debug/netcoreapp3.1/DocumentFormat.OpenXml.dll
