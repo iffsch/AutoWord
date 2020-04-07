@@ -42,6 +42,7 @@ namespace AutoWord
 
         }
 
+        public static void InsertAPicture(string document, string fileName)
         {
             using (WordprocessingDocument wordprocessingDocument =
                 WordprocessingDocument.Open(document, true))
